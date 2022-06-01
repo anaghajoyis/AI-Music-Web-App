@@ -1,0 +1,25 @@
+body{
+    background-image: url("Cute background1.jpg");
+    margin: 10px;
+}
+#header{
+    background-color: #ffb3c6;
+    border-radius: 50px;
+}
+#title{
+    font-family: 'Yeseva One', cursive;
+}
+#instruct{
+    font-family: 'Fredericka the Great', cursive;
+}
+#song_name{
+    background-color: #f2a8ff;
+    border-radius: 50px;
+    font-size: larger;
+    font-family: 'Cinzel Decorative', cursive;
+}
+canvas{
+    border-color: black;
+    border-style: solid;
+    box-shadow: 5px 5px 5px blue;
+}
